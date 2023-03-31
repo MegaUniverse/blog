@@ -7,7 +7,7 @@
       $mensagem = addslashes($_POST['mesage']);
 
 
-      $to = "projestua@gmail.com";
+      $to = "megatecprototype1@gmail.com";
       $subject ="WEB OUTDOOR CLIENT";
       $body = "Nome: " .$nome. "\r\n".
               "E-mail: " .$email. "\r\n".
